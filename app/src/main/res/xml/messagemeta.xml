@@ -1,0 +1,11 @@
+<appwidget-provider
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="160dp"
+    android:minHeight="80dp"
+    android:initialLayout="@layout/message"
+    android:minResizeHeight="160dp"
+    android:minResizeWidth="80dp"
+    android:resizeMode="horizontal|vertical"
+    android:previewImage="@drawable/yon"
+    android:updatePeriodMillis="0">
+</appwidget-provider>
